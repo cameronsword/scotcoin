@@ -1,7 +1,8 @@
 {
   "name": "ScotCoin",
   "symbol": "SCOT",
-  "uri": "https://raw.githubusercontent.com/cameronsword/scotcoin/82382ad1287f7bdd1bcb81cc290ea9e7ba21089e/1.png",
-  "uri_hash": "sha256:ff9d9c10a4da037d3f38508329e376dcfa6e741632a2e14b083ac3a74530e0f5",
+  "uri": "https://github.com/cameronsword/scotcoin/blob/84cf6e4e90a32ccc04e95d9f6308df04cf8c16b1/2.jpg",
+  "uri_hash": "sha256:ebdb1f04d3967f8a9b8a672619b5e5ae4280158b4f5751c7056c5b1d7d04f997",
   "description": "ScotCoin is a digital currency aimed at bringing awareness and use of the Scottish economy in the crypto world."
 }
+
