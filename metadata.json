@@ -1,8 +1,6 @@
 {
-  "name": "ScotCoin",
-  "symbol": "SCOT",
-  "uri": "https://github.com/cameronsword/scotcoin/blob/84cf6e4e90a32ccc04e95d9f6308df04cf8c16b1/2.jpg",
-  "uri_hash": "sha256:ebdb1f04d3967f8a9b8a672619b5e5ae4280158b4f5751c7056c5b1d7d04f997",
-  "description": "ScotCoin is a digital currency aimed at bringing awareness and use of the Scottish economy in the crypto world."
+"name": "ScotCoin",
+"symbol": "SCOT",
+"description": "Introducing ScotCoin – an innovative cryptocurrency built on the ultra-fast, secure, and inexpensive Solana blockchain, designed to become a trusted currency for both local transactions in Scotland and global trade. With zero transaction fees and lightning-fast processing times, ScotCoin is primed for adoption by businesses, retailers, and service providers across Scotland as a simple and seamless alternative to traditional payment systems. As the digital economy rapidly expands, ScotCoin presents a unique opportunity to leverage blockchain technology for secure, decentralised transactions and greater financial autonomy. Focused on scalability, security and widespread adoption, ScotCoin is set to play a pivotal role in shaping the future of Scotland’s economy.",
+"image": "https://raw.githubusercontent.com/cameronsword/scotcoin/e873cf6d4ccb56f385fa4fd0ef568120ded19405/ImageAI-1024x1024%20(1).jpeg"
 }
-
